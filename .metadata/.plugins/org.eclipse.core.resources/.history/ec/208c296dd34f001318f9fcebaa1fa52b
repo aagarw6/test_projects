@@ -1,0 +1,17 @@
+package com.anshika.records;
+
+public class Records {
+	private String name;
+	private int phn;
+	private int age;
+	Records()
+	{
+		name="";
+		phn= 0;
+		age= 0;
+		
+		
+	}
+	
+}
+

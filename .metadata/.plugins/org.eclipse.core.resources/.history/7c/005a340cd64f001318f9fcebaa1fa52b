@@ -1,0 +1,28 @@
+package com.anshika.records;
+
+import java.util.ArrayList;
+
+public class Sorted {
+
+	ArrayList<Records> table;
+	
+	Sorted()
+	{
+		table = new ArrayList<Records>();
+	}
+	
+	public void addentry(String g,int p,int a)
+	{
+		Records r;
+		r = new Records(g,p,a);
+	    table.add(r);
+	}	
+	public void display()
+	{
+		for (i=0;i<table.length();i++)
+		{
+		
+		}
+	}
+}
+

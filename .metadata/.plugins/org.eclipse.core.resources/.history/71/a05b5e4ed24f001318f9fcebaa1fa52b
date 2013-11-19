@@ -1,0 +1,8 @@
+package com.anshika.records;
+
+public class Records {
+	private String name;
+	private Long phn;
+	private int age;
+
+}

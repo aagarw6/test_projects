@@ -1,0 +1,10 @@
+package com.anshika.maths;
+
+public class Maths {
+
+	public int add(int a,int b)
+	{
+		addnum=a+b;
+		return addnum;
+	}
+}

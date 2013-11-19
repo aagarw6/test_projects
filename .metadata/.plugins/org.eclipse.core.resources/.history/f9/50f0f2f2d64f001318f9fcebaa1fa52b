@@ -1,0 +1,16 @@
+package com.anshika.records;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        Sorted s;
+        s= new Sorted();
+        s.addentry("ggggg",12345,3);
+    }
+}
